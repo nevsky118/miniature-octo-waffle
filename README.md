@@ -1,5 +1,7 @@
 Мини-соцсеть. SPA без бэкенда, все данные в localStorage через Redux.
 
+**Demo:** https://nevsky118.github.io/miniature-octo-waffle
+
 ## Быстрый старт
 
 ```bash
